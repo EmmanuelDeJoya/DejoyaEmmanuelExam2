@@ -1,0 +1,78 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="text1">
+        <item name="android:layout_width">382dp</item>
+        <item name="android:layout_height">31dp</item>
+        <item name="android:text">Card Activity</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textColor">#F7DC6F</item>
+        <item name="android:fontFamily">serif-monospace</item>
+    </style>
+
+    <style name="text2">
+        <item name="android:layout_width">360dp</item>
+        <item name="android:layout_height">115dp</item>
+        <item name="android:text">Geralt of Rivia</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#F7DC6F</item>
+        <item name="android:fontFamily">serif-monospace</item>
+    </style>
+
+    <style name="text3">
+        <item name="android:layout_width">356dp</item>
+        <item name="android:layout_height">158dp</item>
+        <item name="android:text">Yennefer of Vengerberg</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#F7DC6F</item>
+        <item name="android:fontFamily">serif-monospace</item>
+
+    </style>
+
+    <style name="text4">
+        <item name="android:layout_width">360dp</item>
+        <item name="android:layout_height">142dp</item>
+        <item name="android:text">Triss Merigold</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#F7DC6F</item>
+        <item name="android:fontFamily">serif-monospace</item>
+    </style>
+
+    <style name="text5">
+        <item name="android:layout_width">268dp</item>
+        <item name="android:layout_height">102dp</item>
+        <item name="android:text">Geralt of Rivia is a witcher and the main              protagonist of the Witcher series by                          Andrzej Sapkowski. Geralt is a monster                      hunter for hire. He possesses                                superhuman abilities and is a master                              swordsman.</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#F7DC6F</item>
+        <item name="android:fontFamily">serif-monospace</item>
+    </style>
+
+    <style name="text6">
+        <item name="android:layout_width">267dp</item>
+        <item name="android:layout_height">133dp</item>
+        <item name="android:text">Yennefer of Vengerberg, born on                               Belleteyn in 1173, was a sorceress                               who lived in Vengerberg, the capital city                                   of Aedirn. She was Geralt of Rivia's                                 true love and a mother figure to Ciri,                               whom she viewed like a daughter to the point that she did everything she could to rescue the girl and keep her from harm.</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#F7DC6F</item>
+        <item name="android:fontFamily">serif-monospace</item>
+    </style>
+
+    <style name="text7">
+        <item name="android:layout_width">268dp</item>
+        <item name="android:layout_height">121dp</item>
+        <item name="android:text">Triss Merigold of Maribor was a                               legendary Temerian sorceress of the                               13th century. She passed into history                               as Merigold the Fearless. She was                                 friends with Yennefer and the witcher                                Geralt of Rivia, but also unhappily in love with the latter.</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#F7DC6F</item>
+        <item name="android:fontFamily">serif-monospace</item>
+    </style>
+
+</resources>
